@@ -1,6 +1,3 @@
-### Hi! My name is Sergey and I'm Frontend Developer!
-[![](https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47b2x9mqoe7bn34e6belin3v7e44278jednvjns004&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://github.com/Sollert)
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -22,8 +19,6 @@
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
-
-
 
 ### My Projects
 
